@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LightFelicis&show_icons=true&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LightFelicis&theme=dracula)](https://git.io/streak-stats)
 <br />
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LightFelicis&count_private=true&include_all_commits=true&theme=dracula&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LightFelicis&count_private=true&include_all_commits=true&theme=dracula&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 
