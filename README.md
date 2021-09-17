@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&color=FF80BF&lines=Hello%2C+welcome+to+Alicja's+profile)](https://git.io/typing-svg)
 
 <!--
 **LightFelicis/LightFelicis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://komarev.com/ghpvc/?username=LightFelicis&color=6fd08c)
+![](https://komarev.com/ghpvc/?username=LightFelicis&color=FF9580)
 
 # Profile statistics
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LightFelicis&show_icons=true&theme=dracula)
+
 
